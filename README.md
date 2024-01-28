@@ -31,10 +31,10 @@ ClimaVista es una aplicación web desarrollada con Spring Boot MVC y Thymeleaf p
 ## Capturas de Pantalla
 
 ### Ingresar Ciudad
-![Ingresar Ciudad](/ruta-a-tu-imagenes/ingresar_ciudad.png)
+![Ingresar Ciudad](https://raw.githubusercontent.com/justin-campos/ClimaVista-AppMeteorologica/master/src/main/resources/static/img/appAterrizaje.PNG)
 
 ### Datos Meteorológicos
-![Datos Meteorológicos](/ruta-a-tu-imagenes/datos_meteorologicos.png)
+![Datos Meteorológicos](https://raw.githubusercontent.com/justin-campos/ClimaVista-AppMeteorologica/master/src/main/resources/static/img/temperatura.gif)
 
 
 ...
