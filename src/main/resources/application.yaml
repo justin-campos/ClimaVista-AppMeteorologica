@@ -1,0 +1,21 @@
+server:
+  port: 5055
+
+debug: true
+
+#justinsilvac360
+#apikey: 3215459ecdafedc48ccc866ac7cea2bb
+#justincampossilva
+#f5af664c2e0a5ba91d0a43c61b75bbba
+
+weatherstack:
+  api:
+    key: f5af664c2e0a5ba91d0a43c61b75bbba
+
+spring:
+  autoconfigure:
+    exclude:
+      - org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration
+      - org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaAutoConfiguration
+
+
